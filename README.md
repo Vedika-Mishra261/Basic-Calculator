@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Calculator
 
 A simple, clean, and responsive calculator web application.
@@ -59,3 +60,6 @@ Then open `http://localhost:8000` in your browser.
 ## How It Works
 
 The JavaScript keeps track of the current number, the previous number, and the selected operator. Button clicks are handled with one shared event listener. Calculations are performed with a `switch` statement instead of `eval()`, and the display is updated through DOM manipulation after every action.
+=======
+# Basic-Calculator
+>>>>>>> 581e631eb219f3265bbcddc0e3903f2243731fb2
